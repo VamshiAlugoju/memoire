@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "convex",
+			"path": "../../../../../memoire/convex"
+		},
+		{
+			"name": "my-app",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
